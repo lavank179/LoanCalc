@@ -1,0 +1,23 @@
+body{
+    background: url('./img/main-back.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#loading {
+    display: none;
+}
+
+.container-fluid .card{
+    background: none;
+    color: whitesmoke;
+
+}
+
+.card-subtitle{
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
